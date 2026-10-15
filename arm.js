@@ -1,0 +1,1 @@
+const ARM_CFG={arm:'linguistic'};
